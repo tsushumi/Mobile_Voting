@@ -90,9 +90,9 @@ DATABASES = {
 
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'e_voting',
+        'NAME': 'HOST',
         'HOST': 'localhost',
-        'USER': 'admin',
+        'USER': 'root',
         'PASSWORD': 'admin123'
     }
 }
