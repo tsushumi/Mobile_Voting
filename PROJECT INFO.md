@@ -1,4 +1,4 @@
-**Developed By Ian Muriuki**
+**Developed By Brian Mose**
 
 **Instructions**
 - Install the Requirements: pip install -r requirements.txt
